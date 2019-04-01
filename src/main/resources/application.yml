@@ -1,0 +1,9 @@
+amazon:
+  access:
+    key: AKIAZOITLXCCXYVUL74M
+    secret-key: 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
+  region: sa-east-1
+  end-point:
+    url: dynamodb.sa-east-1.amazonaws.com
+server:
+  port: 9080
